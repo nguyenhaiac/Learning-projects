@@ -1,0 +1,6 @@
+* Project based learning python
+** Conway's game of life
+Very primitive version of Conway's game of life. Works but just barely. Ideas for improvement:
+- Cleaning up code
+- Write a TUI version (with Curse or Urwin)
+- Write a GUI version (Maybe with Pygame)
